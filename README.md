@@ -37,8 +37,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/BLUE-DEVIL1134/UltroidCliTemplate&template=https://github.com/kavindapoornimajith/Ultroid
-## Deploy Locally
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/BLUE-DEVIL1134/UltroidCliTemplate&template=https://https://github.com/kavindapoornimajith/Ultroid
 - [Traditional Method](#local-deploy---traditional-method)
 - [Easy Method](#local-deploy---easy-method)
 - [Latest UltroidCli](#local-deploy---latest-method)
